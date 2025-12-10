@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langdetect
+transformers
+sentence-transformers
+torch
+pandas
+openpyxl
